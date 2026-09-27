@@ -38,7 +38,7 @@ solidworksmcp-python
 ```
 - Transport
 ```
-Local command (studio)
+Local command (stdio)
 ```
 - Command
 ```
